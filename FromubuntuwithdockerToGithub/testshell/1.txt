@@ -1,0 +1,6 @@
+ybb      :0           :0               Fri Jul 10 19:17   still logged in
+reboot   system boot  4.15.0-29-generi Fri Jul 10 19:17   still running
+ybb      :0           :0               Thu Jul  9 22:42 - down   (01:08)
+reboot   system boot  4.15.0-29-generi Thu Jul  9 22:41 - 23:50  (01:08)
+ybb      :0           :0               Tue Jul  7 09:40 - down   (13:43)
+
